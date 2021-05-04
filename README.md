@@ -1,4 +1,4 @@
-#Pet Tracker
+## Pet Tracker
 
 An iOS App developed using swift which is made by AutoLayout, contains UITableView, UICollectionView, UINavigationController for learning purposes, The project can be referenced to learn the same. The App was developed to learn the concepts of swift and iOS App Development.
 
